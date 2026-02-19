@@ -1,5 +1,5 @@
 # Hospital-Readmission-Patient-Analysis-Excel-Project
-This repository contains the code and documentation for the NeighborMart Customer Segmentation Project. The full report and detailed documentation can be found on [medium][https://medium.com/@teddymakau21/exploratory-data-analysis-of-hospital-readmissions-using-excel-9a728c0e691b]
+This repository contains the code and documentation for the NeighborMart Customer Segmentation Project. The full report and detailed documentation can be found on [medium](https://medium.com/@teddymakau21/exploratory-data-analysis-of-hospital-readmissions-using-excel-9a728c0e691b)
 # Dataset
 I obtained this hospital readmission dataset from UCI Machine Learning Repository,which contained information of 101,075 patients, organized across multiple columns. These columns include detailed patient-level information such as admission details, length of stay, readmission status, medical conditions, and a unique patient identifier used to track hospital visits.
 # Project Overview
