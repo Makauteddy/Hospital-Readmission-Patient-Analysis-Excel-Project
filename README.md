@@ -12,11 +12,11 @@ I used Microsoft Excel to clean, transform, and analyze the data. The project wa
 The following were the recommendations: 
 1. Emergency patients have the highest readmission rates, so clearer discharge instructions and care coordination are essential.
 2. Improving  discharge planning for emergency admissions will Ensure that patients leave the hospital with a confirmed follow-up hence reducing the risk of complications going           unnoticed.
-3. Schedule follow-up appointments before discharge. This  helps identify issues quickly and prevents unnecessary returns.
-4. Conduct post-discharge calls within 48–72 hours. Since heart-related conditions have the highest volume, focused monitoring and education can reduce repeat visits.
-5. Create specialized programs for cardiac patients. Patients who understand their condition, medications, and warning signs are less likely to return.
+3. Schedule follow-up appointments before discharge which  help in  identifying  issues quickly and prevents unnecessary returns.
+4. Conduct post-discharge calls within 48–72 hours.Since heart-related conditions have the highest volume, focused monitoring and education can reduce repeat visits.
+5. Create specialized programs for cardiac patients. Since Patients who understand their condition, medications, and warning signs are less likely to return.
 6. Performing medication reconciliation before discharge by Reviewing and confirming prescriptions will reduce medication errors and complications.
 7. Flag long-stay patients as high risk. Patients who stay longer tend to be more complex and may need extra follow-up support.
-8. Monitor patients with high medication counts. Multiple medications often signal complex health conditions that increase readmission risk.
-9. Tracking key factors like admission type, length of stay, and medication count will helps clinicians identify high-risk patients early.
+8. Monitor patients with high medication counts which  often signal complex health conditions that increase readmission risk.
+9. Tracking key factors like admission type, length of stay, and medication count will help clinicians identify high-risk patients early.
 
