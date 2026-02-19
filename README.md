@@ -3,7 +3,7 @@ This repository contains the code and documentation for the NeighborMart Custome
 I obtained this hospital readmission dataset from UCI Machine Learning Repository,which contained information of 101,075 patients, organized across multiple columns. These columns include detailed patient-level information such as admission details, length of stay, readmission status, medical conditions, and a unique patient identifier used to track hospital visits.
 # Project Overview
 The data contains hospital patient records used to analyze readmission patterns, treatment details, and factors that may influence whether a patient returns to the hospital after discharge.
-# problem overview
+# Problem Overview
 Hospital readmissions occur when patients return shortly after discharge, and they can signal gaps in care while increasing healthcare costs. In this project, I analyzed hospital patient data to identify patterns and risk factors linked to readmissions .The insights help healthcare providers make better decisions, target high-risk patients, and improve overall patient care outcomes.
 # Methodology
 I used Microsoft Excel to clean, transform, and analyze the data. The project was completed in structured stages: data cleaning, exploratory data analysis, insight development, and actionable recommendations to support better healthcare decision-making.
